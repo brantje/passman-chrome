@@ -8,3 +8,5 @@ This reposetory is for making a chrome extension for Passman the secure password
 
 ### <h2>Stage</h2>
 1. Setting Up requirements
+
+For features please leave a comment at <a href="https://github.com/brantje/passman-chrome/issues/1">Issue 1</a>
